@@ -207,3 +207,12 @@ marimo/_lsp/
 __marimo__/
 
 .DS_Store
+.codex
+pyproject.toml
+uv.lock
+data/hw4/
+models/
+submission.csv
+runs/
+
+.idea/
